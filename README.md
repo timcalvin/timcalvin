@@ -64,6 +64,7 @@ By night, I'm passionate about 👨‍👩‍👧‍👦 family, 💻 coding, �
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/timothycbryant)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tcalvin/)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
+[![timothycbryant.com](https://img.shields.io/badge/timothycbryant.com-F1C201?style=for-the-badge&logoColor=white)](https://www.timothycbryant.com/)
 
 # GitHub Stats:
 
