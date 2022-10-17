@@ -1,42 +1,41 @@
-This readme is a work in progress during October 2022
+![timothy c bryant](https://github.com/timcalvin/hosted-files/blob/main/timothycbryant-bannerx600.png?raw=true)
 
-Banner?
-
-## Hey there 👋🏻 I'm Tim Bryant.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/timcalvin)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCpn7oEi9DUh1SXz3J33ffKA)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/timothycbryant)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tcalvin/)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
+[![timothycbryant.com](https://img.shields.io/badge/timothycbryant.com-F1C201?style=for-the-badge&logoColor=white)](https://www.timothycbryant.com/)
 
 Professionally, I'm a 🎥 Motion Designer and Videographer on the Brand Marketing team at Thomson Reuters. I love marketing, especially brand marketing.
 
 By night, I'm passionate about 👨‍👩‍👧‍👦 family, 💻 coding, 🏈 football (Detroit Lions), 👾 gaming, 3D Printing and 🎧 music.
 
----
+# What I'm working on (with repos):
 
-## What I'm working on (with repos): Apps / HTDS
+![BUSiQ](https://github.com/timcalvin/hosted-files/blob/main/busiq.png?raw=true)
+[![Budge for iOS](https://github.com/timcalvin/hosted-files/blob/main/Budge.png?raw=true)](https://github.com/timcalvin/Budge-for-iOS)
 
-## What I'm currently learning: Mern
+# What I'm currently learning
 
-## What I'm currently playing: OW2
+![MERN Stack](https://github.com/timcalvin/hosted-files/blob/main/mern-stack.png?raw=true)
 
-# Languages
+# What I'm currently playing
+
+![Overwatch 2](https://github.com/timcalvin/hosted-files/blob/main/overwatch2.png?raw=true)
+
+# Languages, Frameworks & Dev Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-
-# Frameworks
-
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-
-# Backend
-
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-# Dev tools
-
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
@@ -47,7 +46,7 @@ By night, I'm passionate about 👨‍👩‍👧‍👦 family, 💻 coding, �
 # Creative tools
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-00005B.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Cinema 4D](https://img.shields.io/badge/Cinema%204D-011A6A.svg?style=for-the-badge&logo=Cinema%204D&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
@@ -56,15 +55,6 @@ By night, I'm passionate about 👨‍👩‍👧‍👦 family, 💻 coding, �
 ![Logic Pro](https://img.shields.io/badge/Logic%20Pro-555555?style=for-the-badge&logoColor)
 ![Final Cut Pro](https://img.shields.io/badge/Final%20Cut%20Pro-73FC88?style=for-the-badge&logoColor)
 ![Shapr3D](https://img.shields.io/badge/Shapr3D-01A7FF?style=for-the-badge&logoColor)
-
-# Connect with me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/timcalvin)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCpn7oEi9DUh1SXz3J33ffKA)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/timothycbryant)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tcalvin/)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
-[![timothycbryant.com](https://img.shields.io/badge/timothycbryant.com-F1C201?style=for-the-badge&logoColor=white)](https://www.timothycbryant.com/)
 
 # GitHub Stats:
 
