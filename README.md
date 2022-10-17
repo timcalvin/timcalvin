@@ -7,9 +7,13 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 [![timothycbryant.com](https://img.shields.io/badge/timothycbryant.com-F1C201?style=for-the-badge&logoColor=white)](https://www.timothycbryant.com/)
 
+<br />
+
 Professionally, I'm a 🎥 Motion Designer and Videographer on the Brand Marketing team at Thomson Reuters. I love marketing, especially brand marketing.
 
 By night, I'm passionate about 👨‍👩‍👧‍👦 family, 💻 coding, 🏈 football (Detroit Lions), 👾 gaming, 3D Printing and 🎧 music.
+
+<br />
 
 # What I'm working on (with repos):
 
@@ -23,6 +27,8 @@ By night, I'm passionate about 👨‍👩‍👧‍👦 family, 💻 coding, �
 # What I'm currently playing
 
 ![Overwatch 2](https://github.com/timcalvin/hosted-files/blob/main/overwatch2.png?raw=true)
+
+<br />
 
 # Languages, Frameworks & Dev Tools
 
@@ -56,17 +62,23 @@ By night, I'm passionate about 👨‍👩‍👧‍👦 family, 💻 coding, �
 ![Final Cut Pro](https://img.shields.io/badge/Final%20Cut%20Pro-73FC88?style=for-the-badge&logoColor)
 ![Shapr3D](https://img.shields.io/badge/Shapr3D-01A7FF?style=for-the-badge&logoColor)
 
+<br />
+
 # GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=timcalvin&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=timcalvin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=timcalvin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<br />
+
 # GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=timcalvin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=timcalvin&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<br />
 
 # You can help me by Donating
 
