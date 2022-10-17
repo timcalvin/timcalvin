@@ -15,7 +15,7 @@ By night, I'm passionate about 👨‍👩‍👧‍👦 family, 💻 coding, �
 
 <br />
 
-# What I'm working on (with repos):
+# What I'm working on
 
 ![BUSiQ](https://github.com/timcalvin/hosted-files/blob/main/busiq.png?raw=true)
 [![Budge for iOS](https://github.com/timcalvin/hosted-files/blob/main/Budge.png?raw=true)](https://github.com/timcalvin/Budge-for-iOS)
