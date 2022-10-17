@@ -1,11 +1,11 @@
 ![timothy c bryant](https://github.com/timcalvin/hosted-files/blob/main/timothycbryant-bannerx600.png?raw=true)
 
+[![timothycbryant.com](https://img.shields.io/badge/timothycbryant.com-F1C201?style=for-the-badge&logoColor=white)](https://www.timothycbryant.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/timcalvin)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCpn7oEi9DUh1SXz3J33ffKA)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/timothycbryant)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tcalvin/)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
-[![timothycbryant.com](https://img.shields.io/badge/timothycbryant.com-F1C201?style=for-the-badge&logoColor=white)](https://www.timothycbryant.com/)
 
 <br />
 
@@ -77,8 +77,6 @@ By night, I'm passionate about 👨‍👩‍👧‍👦 family, 💻 coding, �
 ![](https://github-profile-trophy.vercel.app/?username=timcalvin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=timcalvin&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<br />
 
 # You can help me by Donating
 
