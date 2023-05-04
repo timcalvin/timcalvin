@@ -24,7 +24,7 @@ In addition to these two longer term projects I'm currently working on a lightwe
 
 # What I'm currently learning
 
-![MERN Stack](https://github.com/timcalvin/hosted-files/blob/main/mern-stack.png?raw=true)
+PYTHON
 
 # What I'm currently playing
 
