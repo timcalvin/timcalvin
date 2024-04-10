@@ -11,7 +11,7 @@
 
 Professionally, I'm a 🎥 Motion Designer and Videographer on the Brand Marketing team at Thomson Reuters. I love marketing, especially brand marketing.
 
-By night, I'm passionate about 👨‍👩‍👧‍👦 family, 💻 coding, 🏈 football (Detroit Lions), 👾 gaming, 3D Printing and 🎧 music.
+By night, I'm passionate about 👨‍👩‍👧‍👦 family, 💻 coding, 📖 writing fiction, 🏈 football (Detroit Lions), 👾 gaming, 3D Printing and 🎧 music.
 
 <br />
 
@@ -24,11 +24,11 @@ In addition to these two longer term projects I'm currently working on a lightwe
 
 # What I'm currently learning
 
-PYTHON
+SwiftData / FireBase
 
 # What I'm currently playing
 
-![Overwatch 2](https://github.com/timcalvin/hosted-files/blob/main/overwatch2.png?raw=true)
+No time for games right now
 
 <br />
 
@@ -36,13 +36,8 @@ PYTHON
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![XCode](https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -50,7 +45,8 @@ PYTHON
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-00005B.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Cinema 4D](https://img.shields.io/badge/Cinema%204D-011A6A.svg?style=for-the-badge&logo=Cinema%204D&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Cinema 4D](https://img.shields.io/badge/Cinema%204D-011A6A.svg?style=for-the-badge&logo=Cinema%204D&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
