@@ -19,6 +19,9 @@ By night, I'm passionate about 👨‍👩‍👧‍👦 family, 💻 coding, �
 
 ![BUSiQ](https://github.com/timcalvin/hosted-files/blob/main/busiq.png?raw=true)
 [![Budge for iOS](https://github.com/timcalvin/hosted-files/blob/main/Budge.png?raw=true)](https://github.com/timcalvin/Budge-for-iOS)
+![Budge 3](https://github.com/timcalvin/hosted-files/blob/main/budge3.png?raw=true)
+![BirdiIq](https://github.com/timcalvin/hosted-files/blob/main/birdiiq.png?raw=true)
+![Rememberri](https://github.com/timcalvin/hosted-files/blob/main/rememberri.png?raw=true)
 
 In addition to these two longer term projects I'm currently working on a lightweight macOS menubar app to track upcoming bills.
 
